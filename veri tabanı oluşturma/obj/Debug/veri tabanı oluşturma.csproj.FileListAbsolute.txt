@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\bin\Debug\veri tabanı oluşturma.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\obj\Debug\veri tabanı oluşturma.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\obj\Debug\veri_tabanı_oluşturma.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\obj\Debug\veri_tabanı_oluşturma.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\obj\Debug\veri tabanı oluşturma.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\bin\Debug\ogrenciisleri.mdf
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\bin\Debug\ogrenciisleri_log.ldf
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\bin\Debug\veri tabanı oluşturma.exe
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\bin\Debug\veri tabanı oluşturma.pdb
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\obj\Debug\veri tabanı oluşturma.exe
+c:\users\asus\documents\visual studio 2013\Projects\veri tabanı oluşturma\veri tabanı oluşturma\obj\Debug\veri tabanı oluşturma.pdb
